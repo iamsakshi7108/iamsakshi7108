@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20I'm%20Sakshi!&fontSize=45&fontColor=ffffff" /> 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20I'm%20Sakshi!&fontSize=45&fontColor=ffffff" />
 
 
 ### 🚀 DevOps & Cloud Enthusiast | AWS | Automation | Intern @ Cravita Technology
@@ -48,7 +48,7 @@
 
 ## ⌨️ Typing Animation
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6A11CB&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;AWS+%7C+Terraform+%7C+Jenkins;Cloud+%7C+Automation+%7C+IaC" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6A11CB&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;AWS+%7C+Terraform+%7C;Cloud+%7C+Automation+%7C+IaC" />
 </p>
 
 
@@ -60,13 +60,6 @@
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Terraform-IaC-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge" />
-</p>
-
-
----
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/iamsakshi7108/iamsakshi7108/output/github-contribution-grid-snake.svg" />
 </p>
 
 
