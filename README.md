@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate Cloud & DevOps Enthusiast from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20I'm%20Sakshi!&fontSize=45&fontColor=ffffff" /> 👋
+
+
+### 🚀 DevOps & Cloud Enthusiast | AWS | Automation | Intern @ Cravita Technology
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=iamsakshi7108E&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
@@ -11,8 +13,8 @@
 
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
-| **Cloud** | AWS | - [Three Tier Architecture](#)<br> - [S3 + Lambda + DynamoDB](#) |
-| **Infrastructure as Code** | Terraform | - [Static Website using Terraform](#)<br> - [AWS Resource Tagging Automation](#) |
+| **Cloud** | AWS | - [Three Tier Architecture](#)<br> |
+| **Infrastructure as Code** | Terraform | - [Static Website using Terraform](#)<br> |
 | **Programming** | Java, Python | - [Student App](#) |
 
 ---
@@ -27,6 +29,48 @@
 
 ---
 
+## 🔗 Connect With Me
+<p>
+<a href="[https://www.linkedin.com/in/sakshi-kolhapure-665b57378]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" /></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+</p>
+
+---
+
+## ⌨️ Typing Animation
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6A11CB&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;AWS+%7C+Terraform+%7C+Jenkins;Cloud+%7C+Automation+%7C+IaC" />
+</p>
+
+
+---
+
+
+## 🎖️ Skill Badges
+<p>
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Terraform-IaC-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge" />
+</p>
+
+
+---
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/iamsakshi7108/iamsakshi7108/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+---
 ## 🔗 GitHub Stats
 
 <p align="center">
@@ -36,4 +80,8 @@
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+## 🌟 Thanks for Visiting!
+<p align="center">If you like my profile, consider giving a ⭐ to my repositories
+
+---
+
