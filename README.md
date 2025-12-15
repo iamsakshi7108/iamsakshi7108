@@ -13,7 +13,7 @@
 
 | Domain | Skills / Tools | Projects |
 |--------|----------------|----------|
-| **Cloud** | AWS | - [Three Tier Architecture](#)<br> |
+| **Cloud** | AWS | - [Secure-Three-Tier-Project](#)<br> |
 | **Infrastructure as Code** | Terraform | - [Static Website using Terraform](#)<br> |
 | **Programming** | Java, Python | - [Student App](#) |
 
