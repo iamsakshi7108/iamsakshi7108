@@ -9,14 +9,64 @@
 
 ---
 
-## 🗂️ **Domain | Skills | Projects Overview**
+<div style="font-size: 18px;">
 
-| Domain | Skills / Tools | Projects |
-|--------|----------------|----------|
-| **Cloud** | AWS | - [Secure-Three-Tier-Project](#)<br> |
-| **Infrastructure as Code** | Terraform | - [Static Website using Terraform](#)<br> |
-| **Programming** | Java, Python | - [Student App](#) |
+<table>
+  <tr>
+    <th><b>Domain</b></th>
+    <th><b>Skills/Tools</b></th>
+    <th><b>Projects</b></th>
+  </tr>
 
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>AWS</td>
+    <td>
+      - <a href="https://github.com/iamsakshi7108/Secure-Three-Tier-Project.git">Secure-Three-Tier-Project</a><br>
+      - <a href="https://github.com/iamsakshi7108/Serverless_File_Compression-Project.git">Serverless_File_Compression-Project</a><br>
+      - <a href="https://github.com/iamsakshi7108/Serverless_Volume_Backup-Project.git">Serverless_Volume_Backup-Project</a><br>
+      - <a href="https://github.com/iamsakshi7108/AutoScaling-Project.git">AutoScaling-Project</a>
+      - <a href="https://github.com/iamsakshi7108/Application-Load-Balancer-Project.git">Application-Load-Balancer-Project</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Infrastructure as Code</b></td>
+    <td>Terraform</td>
+    <td>
+      - <a href="https://github.com/iamsakshi7108/Static-Website-Hosting-Using-Terraform.git">Static-Website-Hosting-Using-Terraform</a><br>
+      - <a href="https://github.com/iamsakshi7108/3-Tier-Architecture-using-Terraform.git">3-Tier-Architecture-using-Terraform</a><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>Node.js, Python</td>
+    <td>
+      - <a href="https://github.com/iamsakshi7108/Python-App-Deployment.git">Python-App-Deployment</a><br>
+      - <a href="https://github.com/iamsakshi7108/Node-App-Deployment.git">Node-App-Deployment</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>SCM</b></td>
+    <td>GitHub, GitLab, CodeCommit</td>
+    <td>
+      - <a href="https://github.com/iamsakshi7108/iamsakshi7108.git">My Github Profile</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>DynamoDB, RDS</td>
+    <td>
+      - <a href="https://github.com/iamsakshi7108/Data-Migration-Project_IAAS-PAAS.git">Data-Migration-Project_IAAS-PAAS</a>
+    </td>
+  </tr>
+
+</table>
+
+</div>
 ---
 
 ## 🚀 Skills & Technologies
@@ -29,19 +79,33 @@
 
 ---
 
-## 🔗 Connect With Me
+## <span style="font-size: 28px;">🔗 Connect with me</span>
+
 <p>
-<a href="[https://www.linkedin.com/in/sakshi-kolhapure-665b57378]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" /></a>
+  <a href="https://www.linkedin.com/in/sakshi-kolhapure-665b57378" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  </a>
 </p>
 
 ---
