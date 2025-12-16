@@ -36,6 +36,7 @@
     <td>
       - <a href="https://github.com/iamsakshi7108/Static-Website-Hosting-Using-Terraform.git">Static-Website-Hosting-Using-Terraform</a><br>
       - <a href="https://github.com/iamsakshi7108/3-Tier-Architecture-using-Terraform.git">3-Tier-Architecture-using-Terraform</a><br>
+      - <a href="https://github.com/iamsakshi7108/Self_Healing_Infrastucture_Using_Terraform.git">Self_Healing_Infrastucture_Using_Terraform</a><br>
     </td>
   </tr>
 
