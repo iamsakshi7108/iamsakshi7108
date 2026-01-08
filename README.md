@@ -68,6 +68,8 @@
 </table>
 
 </div>
+
+
 ---
 
 ## 🚀 Skills & Technologies
@@ -111,14 +113,11 @@
 
 ---
 
-## ⌨️ Typing Animation
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=6A11CB&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;AWS+%7C+Terraform+%7C;Cloud+%7C+Automation+%7C+IaC" />
 </p>
 
-
 ---
-
 
 ## 🎖️ Skill Badges
 <p>
@@ -126,7 +125,6 @@
 <img src="https://img.shields.io/badge/Terraform-IaC-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge" />
 </p>
-
 
 ---
 ## 🔗 GitHub Stats
