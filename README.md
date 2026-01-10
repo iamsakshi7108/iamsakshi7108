@@ -41,6 +41,14 @@
   </tr>
 
   <tr>
+    <td><b>Containerization</b></td>
+    <td>Docker</td>
+    <td>
+      - <a href="https://github.com/iamsakshi7108/Wordpress_Containerization.git">Wordpress Containerization</a><br>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>Programming Languages</b></td>
     <td>Node.js, Python</td>
     <td>
